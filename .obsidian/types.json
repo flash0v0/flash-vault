@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "status": "text",
+    "uid": "date",
+    "source-type": "text",
+    "review": "datetime"
+  }
+}

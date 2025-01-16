@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "95600015d0b2c7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25c4674034e771f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e976cd4f0289e72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "just nonsense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "just nonsense"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5850d979456565f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ee0c4a273d595b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700a6a6dc867a006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d3e1b42a6f659e91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "255ead4ddbda9349",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba6f2113b905ff42",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceef5ec2e058116e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2514e48100e41145",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Template/Fleeting note Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fleeting note Template"
+            }
+          },
+          {
+            "id": "a1d19d475f8df3a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 Template/Fleeting note Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fleeting note Template"
+            }
+          },
+          {
+            "id": "bc34bedd1f3ddfa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f94af27c60861d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 Template/Fleeting note Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fleeting note Template"
+            }
+          },
+          {
+            "id": "a2269360d099f09d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e976cd4f0289e72d",
+  "lastOpenFiles": [
+    "just nonsense.md",
+    "Source Title.md",
+    "01 Daily/2025-01-16.md",
+    "05 Template/Fleeting note Template.md",
+    "04 Projects/hobbies/chess.md",
+    "05 Template/Literature note Template.md",
+    "05 Template/Project note Template.md",
+    "05 Template/Permanent note Template.md",
+    "05 Template/Source note template.md",
+    "05 Template/Chess game analogy.md",
+    "05 Template/Coding.md",
+    "05 Template/Daily note template.md",
+    "space repetition.md",
+    "2025-01-13.md",
+    "01 Daily/Daily journal.md",
+    "04 Projects/coding",
+    "04 Projects/hobbies/chess/chess plan.md",
+    "04 Projects/hobbies/singing",
+    "04 Projects/hobbies/guitar",
+    "04 Projects/hobbies/chess",
+    "04 Projects/hobbies",
+    "UID.md",
+    "05 Template/Permanent note template.md",
+    "05 Template/Untitled 1.md",
+    "06 Archive",
+    "04 Projects",
+    "Welcome.md",
+    "07 Attachments",
+    "05 Template",
+    "03 Permanent (Core)"
+  ]
+}
